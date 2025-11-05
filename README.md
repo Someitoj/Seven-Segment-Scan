@@ -2,7 +2,10 @@
 
 This repository contains part of the code written for my master thesis.
 
+## About
+
 The code itself attempts to use OCR techniques to locate and read a seven segment display in a provided image.
+For this, [SSOCR](https://github.com/jiweibo/SSOCR) and [SegoDec](https://github.com/scottmudge/SegoDec) were used as a jumping-off point.
 
 This code was part of a React Native turbo module, though this repository only contains stand-alone C++ code.
 
